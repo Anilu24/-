@@ -35,8 +35,7 @@ y manejo de enfermedades asociadas a la acuicultura, toxicología y genómica am
 bioseguridad asociado al cultivo y procesamiento de organismos marinos y dulceacuícolas, biocombustibles, <br>
 y gestión y control de calidad en laboratorios.<br>
 <br>
-<td><img src="https://images.theconversation.com/files/434734/original/file-20211130-24-2o42g9.jpg?ixlib=rb-1.1.
-0&rect=0%2C201%2C5176%2C2584&q=45&auto=format&w=1356&h=668&fit=crop" height="200">
+<td><img src="https://images.theconversation.com/files/434734/original/file-20211130-24-2o42g9.jpg?ixlib=rb-1.1.0&rect=0%2C201%2C5176%2C2584&q=45&auto=format&w=1356&h=668&fit=crop" height="200">
 <td><img src="https://www.bbva.ch/wp-content/uploads/2021/10/recurso_bioeconomia-1024x576.jpg" height="200">
 <td><img src="https://www.ort.edu.uy/innovaportal/file/112547/1/que-tipos-de-biotecnologia-existen.jpg" height="200">
 <br>
